@@ -1,0 +1,39 @@
+school:
+  name: "nnyy"
+  website: "dhajdla"
+home:
+  loc: "上海市清河路"
+  price: 1000000
+  a:
+    - 4
+    - 7
+    - 9
+    - 100
+  map:
+    nn: 4
+    mm: 8
+    pp: 9
+
+#  Yaml语法中的key不要用中文！！！
+#https://blog:
+#  csdn:
+#    net/m0_51512780/article/details/122616141?utm_term=yml%E6%96%87%E4%BB%B6%E4%B8%8D%E8%83%BD%E6%9C%89%E4%B8%AD%E6%96%87&utm_medium=distribute:
+#      pc_aggpage_search_result:
+#        none-task-blog-2~all~sobaiduweb~default-1-122616141&spm=3001:
+#          4430: 一模一样的错误！！
+grade:
+  ma:
+    yy: 88
+    xx: 88
+teacher:
+  id: 08372
+  name: lwm
+  tea-courses:
+    - math
+    - data_analysis
+    - science
+  s:
+    name: sut
+    website: ushaoak
+
+
